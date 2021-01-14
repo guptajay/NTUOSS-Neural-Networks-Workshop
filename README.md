@@ -10,7 +10,7 @@ Welcome to the first TGIFHacks workshop for Semester 2 AY 20/21. This workshop w
 
 After that, in a hands-on exercise, you will be introduced to Keras, one of the leading Deep Learning frameworks out there. This will open up countless possibilities for you to build exciting and amazing machine learning applications. As part of the workshop, you will learn to train a neural network to identify different types of flowers only with a few given attributes. So let's get started!
 
-## Workshop Details:
+## Workshop Details
 **Time**: Friday, 15 January 2021. 6:30pm - 8:30pm  
 **Location**: Microsoft Teams (due to COVID-19 measures)  
 **Organizer**: NTU Open Source Society
